@@ -15,3 +15,9 @@
 # 8. Conclusion and Policy Insights
 
 # 9. Reproducibility
+## API Access
+This project uses the Socrata Open Data API. To use the scripts, create a .env file in the project root with: 
+sodapy_app_token = your_token_here
+
+You can create your own token at: https://data.cityofchicago.org/profile/app-tokens
+ 
