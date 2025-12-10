@@ -1,12 +1,17 @@
 # 1. Project Overview
 
 # 2. Research Question(s)
+
+## Neighborhood Equity
  - Which neighborhoods have the highest rate of severe crashes per capita?
- - Are majority Black and Latino neighborhoods disproportionately affected?
- - How does road design influence crash severity or frequency?
+ - Are majority Black and Latino neighborhoods disproportionately affected by severe crashes?
+
+## Road Design
+
+ - How does road design influence crash severity and frequency?
  	- Do wider roads experience higher rates of severe crashes?
 	- Are Chicago's high speed arterials over-represented in fatal and serious injury crashes compared to their share of total road mileage?
- 	- How does the severity of crashes vary by posted speed limit, particularly on streets with the default 30 miles per hour (mph)?
+ 	- How does the severity of crashes vary by posted speed limit, particularly on streets with the default 30 miles per hour (mph) limit?
 
 # 3. Motivation
 
